@@ -10,3 +10,6 @@ Make sure you have installed all dependencies specified in requirements.txt file
 
 ### Screen shots
 
+![Form](https://github.com/Bhaumik20/Flower-Prediction/blob/master/Screenshots/form.JPG)
+
+![Flower prediction](https://github.com/Bhaumik20/Flower-Prediction/blob/master/Screenshots/flower_prediction.JPG)
